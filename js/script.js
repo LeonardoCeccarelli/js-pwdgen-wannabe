@@ -7,5 +7,5 @@ console.log(cognomeUtente)
 let colorePreferito = prompt("Ed ora puoi scrivermi il tuo colore preferito?")
 console.log(colorePreferito)
 
-alert(`Grazie per aver scelto Boolean; ${nomeUtente} ${cognomeUtente} ${colorePreferito} 21.
+alert(`Grazie per aver scelto Boolean; ${nomeUtente}${cognomeUtente}${colorePreferito}21.
 Premere OK per continuare`)
